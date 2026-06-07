@@ -1,10 +1,10 @@
-# Task 5 - Decision Trees and Random Forests
+-Task 5 - Decision Trees and Random Forests
 
-#Objective
+-Objective
 
 Implement Decision Tree and Random Forest models using Scikit-learn to classify heart disease cases using the Heart Disease Dataset.
 
-#Tools Used
+-Tools Used
 
 * Python
 * Pandas
@@ -12,7 +12,7 @@ Implement Decision Tree and Random Forest models using Scikit-learn to classify 
 * Scikit-learn
 * Matplotlib
 
-#Steps Performed
+-Steps Performed
 
 * Imported the Heart Disease Dataset
 * Explored dataset structure and features
@@ -33,6 +33,6 @@ Implement Decision Tree and Random Forest models using Scikit-learn to classify 
 * Analyzed and visualized Feature Importance
 * Generated insights from model predictions
 
-## Dataset
+-Dataset
 
 Heart Disease Dataset
