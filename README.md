@@ -7,9 +7,7 @@ Implement Decision Tree and Random Forest models using Scikit-learn to classify 
 #Tools Used
 
 * Python
-  
 * Pandas
-* 
 * NumPy
 * Scikit-learn
 * Matplotlib
